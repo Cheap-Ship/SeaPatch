@@ -1,0 +1,338 @@
+{
+  "From" : "0.1.1",
+  "To" : "0.1.2",
+  "Hash" : "aF27l+246E3OiId1F0C0hLbHlmQ",
+  "TotalSize" : 6684363,
+  "Entries" : [
+    {
+      "Operation" : 2,
+      "RelativePath" : "Oceanario_Data/globalgamemanagers",
+      "Attributes" : 32,
+      "LastWriting" : "2023-02-01 14:47:10Z",
+      "Size" : 181088
+    },
+    {
+      "Operation" : 2,
+      "RelativePath" : "Oceanario_Data/ScriptingAssemblies.json",
+      "Attributes" : 32,
+      "LastWriting" : "2023-02-01 14:47:10Z",
+      "Size" : 4207
+    },
+    {
+      "Operation" : 2,
+      "RelativePath" : "Oceanario_Data/Managed/Assembly-CSharp.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2023-02-01 14:47:10Z",
+      "Size" : 288256
+    },
+    {
+      "Operation" : 2,
+      "RelativePath" : "Oceanario_Data/Managed/Firebase.App.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2023-02-01 14:47:10Z",
+      "Size" : 89088
+    },
+    {
+      "Operation" : 2,
+      "RelativePath" : "Oceanario_Data/Managed/Firebase.Auth.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2023-02-01 14:47:10Z",
+      "Size" : 79872
+    },
+    {
+      "Operation" : 2,
+      "RelativePath" : "Oceanario_Data/Managed/Firebase.Database.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2023-02-01 14:47:10Z",
+      "Size" : 75264
+    },
+    {
+      "Operation" : 2,
+      "RelativePath" : "Oceanario_Data/Managed/Firebase.Platform.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2023-02-01 14:47:10Z",
+      "Size" : 30720
+    },
+    {
+      "Operation" : 2,
+      "RelativePath" : "Oceanario_Data/Managed/Firebase.TaskExtension.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2023-02-01 14:47:10Z",
+      "Size" : 8192
+    },
+    {
+      "Operation" : 2,
+      "RelativePath" : "Oceanario_Data/Managed/Google.MiniJson.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2023-02-01 14:47:10Z",
+      "Size" : 9728
+    },
+    {
+      "Operation" : 2,
+      "RelativePath" : "Oceanario_Data/Managed/Unity.2D.Animation.Runtime.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2023-02-01 14:47:10Z",
+      "Size" : 43520
+    },
+    {
+      "Operation" : 2,
+      "RelativePath" : "Oceanario_Data/Managed/Unity.2D.Common.Runtime.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2023-02-01 14:47:10Z",
+      "Size" : 39424
+    },
+    {
+      "Operation" : 2,
+      "RelativePath" : "Oceanario_Data/Managed/Unity.2D.IK.Runtime.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2023-02-01 14:47:10Z",
+      "Size" : 16896
+    },
+    {
+      "Operation" : 2,
+      "RelativePath" : "Oceanario_Data/Managed/Unity.Burst.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2023-02-01 14:47:10Z",
+      "Size" : 305152
+    },
+    {
+      "Operation" : 2,
+      "RelativePath" : "Oceanario_Data/Managed/Unity.InternalAPIEngineBridge.001.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2023-02-01 14:47:10Z",
+      "Size" : 4608
+    },
+    {
+      "Operation" : 2,
+      "RelativePath" : "Oceanario_Data/Managed/Unity.Mathematics.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2023-02-01 14:47:10Z",
+      "Size" : 726528
+    },
+    {
+      "Operation" : 2,
+      "RelativePath" : "Oceanario_Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2023-02-01 14:47:10Z",
+      "Size" : 6656
+    },
+    {
+      "Operation" : 2,
+      "RelativePath" : "Oceanario_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2023-02-01 14:47:10Z",
+      "Size" : 350208
+    },
+    {
+      "Operation" : 2,
+      "RelativePath" : "Oceanario_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2023-02-01 14:47:10Z",
+      "Size" : 3584
+    },
+    {
+      "Operation" : 2,
+      "RelativePath" : "Oceanario_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2023-02-01 14:47:10Z",
+      "Size" : 3584
+    },
+    {
+      "Operation" : 2,
+      "RelativePath" : "Oceanario_Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2023-02-01 14:47:10Z",
+      "Size" : 585728
+    },
+    {
+      "Operation" : 2,
+      "RelativePath" : "Oceanario_Data/Managed/Unity.RenderPipelines.Universal.Shaders.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2023-02-01 14:47:10Z",
+      "Size" : 3584
+    },
+    {
+      "Operation" : 2,
+      "RelativePath" : "Oceanario_Data/Managed/Unity.Services.Core.Analytics.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2023-02-01 14:47:10Z",
+      "Size" : 4096
+    },
+    {
+      "Operation" : 2,
+      "RelativePath" : "Oceanario_Data/Managed/Unity.Services.Core.Configuration.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2023-02-01 14:47:10Z",
+      "Size" : 11264
+    },
+    {
+      "Operation" : 2,
+      "RelativePath" : "Oceanario_Data/Managed/Unity.Services.Core.Device.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2023-02-01 14:47:10Z",
+      "Size" : 5120
+    },
+    {
+      "Operation" : 2,
+      "RelativePath" : "Oceanario_Data/Managed/Unity.Services.Core.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2023-02-01 14:47:10Z",
+      "Size" : 11264
+    },
+    {
+      "Operation" : 2,
+      "RelativePath" : "Oceanario_Data/Managed/Unity.Services.Core.Environments.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2023-02-01 14:47:10Z",
+      "Size" : 4096
+    },
+    {
+      "Operation" : 2,
+      "RelativePath" : "Oceanario_Data/Managed/Unity.Services.Core.Environments.Internal.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2023-02-01 14:47:10Z",
+      "Size" : 4096
+    },
+    {
+      "Operation" : 2,
+      "RelativePath" : "Oceanario_Data/Managed/Unity.Services.Core.Internal.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2023-02-01 14:47:10Z",
+      "Size" : 53248
+    },
+    {
+      "Operation" : 2,
+      "RelativePath" : "Oceanario_Data/Managed/Unity.Services.Core.Networking.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2023-02-01 14:47:10Z",
+      "Size" : 6656
+    },
+    {
+      "Operation" : 2,
+      "RelativePath" : "Oceanario_Data/Managed/Unity.Services.Core.Registration.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2023-02-01 14:47:10Z",
+      "Size" : 17408
+    },
+    {
+      "Operation" : 2,
+      "RelativePath" : "Oceanario_Data/Managed/Unity.Services.Core.Scheduler.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2023-02-01 14:47:10Z",
+      "Size" : 10240
+    },
+    {
+      "Operation" : 2,
+      "RelativePath" : "Oceanario_Data/Managed/Unity.Services.Core.Telemetry.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2023-02-01 14:47:10Z",
+      "Size" : 27136
+    },
+    {
+      "Operation" : 2,
+      "RelativePath" : "Oceanario_Data/Managed/Unity.Services.Core.Threading.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2023-02-01 14:47:10Z",
+      "Size" : 5632
+    },
+    {
+      "Operation" : 2,
+      "RelativePath" : "Oceanario_Data/Managed/Unity.TextMeshPro.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2023-02-01 14:47:10Z",
+      "Size" : 370688
+    },
+    {
+      "Operation" : 2,
+      "RelativePath" : "Oceanario_Data/Managed/Unity.Timeline.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2023-02-01 14:47:10Z",
+      "Size" : 115712
+    },
+    {
+      "Operation" : 2,
+      "RelativePath" : "Oceanario_Data/Managed/Unity.VisualScripting.Core.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2023-02-01 14:47:10Z",
+      "Size" : 541696
+    },
+    {
+      "Operation" : 2,
+      "RelativePath" : "Oceanario_Data/Managed/Unity.VisualScripting.Flow.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2023-02-01 14:47:10Z",
+      "Size" : 327680
+    },
+    {
+      "Operation" : 2,
+      "RelativePath" : "Oceanario_Data/Managed/Unity.VisualScripting.State.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2023-02-01 14:47:10Z",
+      "Size" : 27136
+    },
+    {
+      "Operation" : 2,
+      "RelativePath" : "Oceanario_Data/Managed/UnityEngine.UI.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2023-02-01 14:47:10Z",
+      "Size" : 247296
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Oceanario_Data/Plugins/x86_64/FirebaseCppApp-10_4_0.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2023-02-01 14:47:10Z",
+      "Size" : 10724864
+    },
+    {
+      "Operation" : 2,
+      "RelativePath" : "Oceanario_Data/Plugins/x86_64/FirebaseCppAuth.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2023-02-01 14:47:10Z",
+      "Size" : 1059840
+    },
+    {
+      "Operation" : 2,
+      "RelativePath" : "Oceanario_Data/Plugins/x86_64/FirebaseCppDatabase.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2023-02-01 14:47:10Z",
+      "Size" : 3540480
+    },
+    {
+      "Operation" : 2,
+      "RelativePath" : "Oceanario_Data/Plugins/x86_64/lib_burst_generated.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2023-02-01 14:47:10Z",
+      "Size" : 37888
+    },
+    {
+      "Operation" : 2,
+      "RelativePath" : "Oceanario_BurstDebugInformation_DoNotShip/Data/Plugins/x86_64/lib_burst_generated.txt",
+      "Attributes" : 32,
+      "LastWriting" : "2023-02-01 14:47:07Z",
+      "Size" : 38454
+    },
+    {
+      "Operation" : 2,
+      "RelativePath" : "version.data",
+      "Attributes" : 32,
+      "LastWriting" : "2023-02-01 14:48:56Z",
+      "Size" : 24
+    },
+    {
+      "Operation" : 1,
+      "RelativePath" : "Oceanario_Data/Managed/Unity.Compat.dll",
+      "Size" : 4608
+    },
+    {
+      "Operation" : 1,
+      "RelativePath" : "Oceanario_Data/Managed/Unity.Tasks.dll",
+      "Size" : 5120
+    },
+    {
+      "Operation" : 1,
+      "RelativePath" : "Oceanario_Data/Plugins/x86_64/FirebaseCppApp-9_1_0.dll",
+      "Size" : 10566144
+    }
+  ]
+}
